@@ -1,0 +1,41 @@
+.judul1{
+	font-size: 3em;
+	font-family: Roboto;
+	text-align: center;
+	color: red;
+}
+
+.judul2{
+	font-size: 2em;
+	font-family: Roboto;
+	text-align: center;
+	color: green;
+}
+
+.isi1{
+	font-size: 14pt;
+	font-family: Opens+Sans;
+	text-align: left;
+	letter-spacing: 10px;
+	color: aqua;
+}
+
+.isi2{
+	font-size: 12pt;
+	font-family: Source+Sans+Pro;
+	text-align: right;
+	letter-spacing: 5px;
+	color: pink;
+}
+
+.isi3{
+	font-size: 11pt;
+	font-family: Source+Sans+Pro;
+	text-align: right;
+	letter-spacing: 5px;
+}
+img{
+	width: 10%
+	display: block;
+	margin: 0 auto;
+}
